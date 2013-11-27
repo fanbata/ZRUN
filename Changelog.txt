@@ -1,0 +1,13 @@
+V1.0
+- Base form of game created in constructdemo.capx
+
+v1.1
+Game mechanics refined and changed from zombie setting to sci-fi setting.
+- Different point system
+- Damage monsters when teleporting.
+- New art assets and sound added.
+
+v1.2
+Game mechanics further refined.
+- Hotspot score system implemented. Rewards risky moves and plays.
+- Mouse tolerance increased to make clicking gameplay smoother.
